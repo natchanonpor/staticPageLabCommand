@@ -35,6 +35,7 @@ function App() {
         alignItems: "center",
         justifyContent: "center",
         backgroundColor: "#282c34",
+        overflow: "hidden",
       }}
     >
       <ul style={{ maxWidth: "50%", padding: 0 }}>
