@@ -14,6 +14,7 @@ import img4_sonar from "./img_sonarCloud/img4.png";
 import img5_sonar from "./img_sonarCloud/img5.png";
 import img6_sonar from "./img_sonarCloud/img6.png";
 import img7_sonar from "./img_sonarCloud/img7.png";
+import img8_sonar from "./img_sonarCloud/img8.png";
 
 import img1_unit from "./img_unitTest/img1.png";
 import img2_unit from "./img_unitTest/img2.png";
@@ -143,6 +144,7 @@ function App() {
           </p>
         </div>
         <img src={img7_sonar} alt="img" style={{ maxWidth: "100%" }}></img>
+        <img src={img8_sonar} alt="img" style={{ maxWidth: "100%" }}></img>
       </ul>
 
       <ul style={{ maxWidth: "50%", padding: 0 }}>
